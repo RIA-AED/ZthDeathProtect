@@ -1,0 +1,6 @@
+name: ZthDeathProtect
+version: '${project.version}'
+main: ink.magma.zthdeathprotect.ZthDeathProtect
+api-version: 1.18
+authors: [ MagmaBlock ]
+description: Leave a death box when a lot of players nearby
