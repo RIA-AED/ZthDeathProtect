@@ -4,3 +4,7 @@ main: ink.magma.zthdeathprotect.ZthDeathProtect
 api-version: 1.18
 authors: [ MagmaBlock ]
 description: Leave a death box when a lot of players nearby
+permissions:
+  zth.deathprotect.fullkeep:
+    description: Allows player to keep inventory and experience on death.
+    default: op
